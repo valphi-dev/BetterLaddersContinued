@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetterLaddersContinued", "BetterLaddersContinued.csproj", "{7FC991FC-68C4-4647-9F0B-D829BEE2F80B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FC991FC-68C4-4647-9F0B-D829BEE2F80B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FC991FC-68C4-4647-9F0B-D829BEE2F80B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FC991FC-68C4-4647-9F0B-D829BEE2F80B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FC991FC-68C4-4647-9F0B-D829BEE2F80B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
