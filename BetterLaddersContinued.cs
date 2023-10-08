@@ -35,7 +35,7 @@ namespace BetterLaddersContinued
                 float objectYRotation = __instance.gameObject.transform.rotation.eulerAngles.y;
                 float playerYRotation = transform.rotation.eulerAngles.y;
 
-                // Check if rotation is aligned
+                // Check if rotations are aligned
                 if (Mathf.Abs(Mathf.DeltaAngle(objectYRotation, playerYRotation)) <= 12.0f)
                 {
                     float speedFactor = character.GetWalk() ? 0.06f : 0.08f;
