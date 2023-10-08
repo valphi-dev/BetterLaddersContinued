@@ -1,4 +1,4 @@
-﻿BetterLadders Reuploaded and Patched to 0.247.24!  
+﻿BetterLadders Reuploaded and Patched to 0.217.24!  
 by Valphi
 
 Original Mod : [BetterLadders](https://www.nexusmods.com/valheim/mods/1054)  
